@@ -42,19 +42,19 @@ export function ContactSection() {
               <span className="flex size-10 items-center justify-center rounded-lg bg-secondary text-primary">
                 <Mail className="size-5" />
               </span>
-              hola@puntodigital.com
+              joseigramirez@gmail.com
             </li>
             <li className="flex items-center gap-3 text-foreground">
               <span className="flex size-10 items-center justify-center rounded-lg bg-secondary text-primary">
                 <Phone className="size-5" />
               </span>
-              +52 (55) 1234 5678
+              + (506) 8690-4507
             </li>
             <li className="flex items-center gap-3 text-foreground">
               <span className="flex size-10 items-center justify-center rounded-lg bg-secondary text-primary">
                 <MapPin className="size-5" />
               </span>
-              Ciudad de México · Remoto en LATAM
+              Alajuela, Costa Rica
             </li>
           </ul>
         </div>

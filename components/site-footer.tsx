@@ -40,9 +40,9 @@ export function SiteFooter() {
         <div>
           <h3 className="text-sm font-semibold text-foreground">Contacto</h3>
           <ul className="mt-4 flex flex-col gap-2.5 text-sm text-muted-foreground">
-            <li>hola@puntodigital.com</li>
-            <li>+52 (55) 1234 5678</li>
-            <li>Ciudad de México · LATAM</li>
+            <li>joseigramirez@gmail.com</li>
+            <li>+ (506) 8690-4507</li>
+            <li>Alajuela, Costa Rica</li>
           </ul>
         </div>
       </div>

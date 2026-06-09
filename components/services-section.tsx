@@ -12,7 +12,7 @@ const services: Service[] = [
     icon: Code2,
     title: "Software a la medida",
     description:
-      "Diseñamos y desarrollamos plataformas web, móviles y sistemas internos pensados exactamente para tu operación, no para encajar a la fuerza en una herramienta genérica.",
+      "Diseñamos y desarrollamos plataformas web, sistemas internos pensados exactamente para tu operación, no para encajar a la fuerza en una herramienta genérica.",
     benefits: [
       "Soluciones escalables y seguras",
       "Automatización de procesos clave",
